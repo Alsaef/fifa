@@ -1,0 +1,58 @@
+body{
+    font-family: 'Asap', sans-serif;
+margin: 0;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 100px;
+}
+.perfact img{
+    width: 70%;
+}
+.perfact{
+    width: 50%;
+    padding-left: 5%;
+    padding: 15px;
+}
+.perfact h1{
+ font-weight: bold;
+ color: grey;
+}
+.perfact p{
+    font-weight: bold;
+}
+.messi span{
+    color: skyblue;
+}
+.mar span{
+    color: orange;
+}
+.Di span{
+    color: aqua;
+}
+.Lautaro span{
+    color: orangered;
+}
+.perfact a{
+    background: orangered;
+    padding: 10px 30px;
+    box-sizing: border-box;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.perfact a:hover{
+    background-color: antiquewhite;
+    color: orangered;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 25px;
+}
+footer a{
+    color: white;
+    font-size: 20px;
+}
